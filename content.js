@@ -23,10 +23,10 @@ const CONTENT = {
     },
     "videos": [
       {
-        "youtube_id": "3JWTaaS7LdU",
+        "youtube_id": "8plt3eglwBs",
         "title": {
-          "en": "Israeli Folk Songs",
-          "de": "Israelische Volkslieder"
+          "en": "Israeli Folk Song",
+          "de": "Israelisches Volkslied"
         }
       },
       {
